@@ -1,0 +1,16 @@
+{
+  "name": "onepay-cpanel",
+  "version": "2.0.0",
+  "description": "ONEPAY CPANEL - Pterodactyl panel creator (Node.js + SQLite + Tailwind). FREE & OPEN SOURCE - GRATIS!!!",
+  "_notice": "ONEPAY ID CPANEL V2 - 100% GRATIS & OPEN SOURCE. Kalau kamu beli source ini, kamu DITIPU! Telegram: https://t.me/onepay_ChatZone | WhatsApp: https://whatsapp.com/channel/0029Vb96s5LCHDyl8NQpXy1q",
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "private": true,
+  "main": "start.mjs",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": {
+    "start": "node start.mjs",
+    "dev": "node --disable-warning=ExperimentalWarning server/index.mjs"
+  },
+  "dependencies": {}
+}

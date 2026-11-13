@@ -1,0 +1,6 @@
+# ONEPAY ID CPANEL V2 - FREE & OPEN SOURCE (GRATIS!!!)
+node_modules/
+data/*.db
+data/*.db-*
+bin/
+.env
