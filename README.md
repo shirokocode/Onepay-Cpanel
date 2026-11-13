@@ -9,7 +9,6 @@
 # ONEPAY CPANEL (ONEPAY ID CPANEL V2)
 
 > ## ✅ 100% GRATIS & OPEN SOURCE
-> ## ⚠️ Banyak oknum yang menjual source ini padahal GRATIS. Kalau kamu BELI, kamu DITIPU!
 >
 > - 💬 Telegram : https://t.me/onepay_ChatZone
 > - 📢 WhatsApp Channel : https://whatsapp.com/channel/0029Vb96s5LCHDyl8NQpXy1q
